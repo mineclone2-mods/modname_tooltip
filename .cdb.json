@@ -3,7 +3,7 @@
   "title": "Modname Tooltip",
   "name": "modname_tooltip",
   "short_description": "Modname Tooltip Minecraft mod for MineClone2",
-  "dev_state": "WIP",
+  "dev_state": "MAINTENANCE_ONLY",
   "tags": ["gui"],
   "content_warnings": [],
   "license": "GPL-3.0-or-later",

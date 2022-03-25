@@ -6,11 +6,11 @@ A porting of the [Modname Tooltip](https://www.curseforge.com/minecraft/mc-mods/
 
 **Maintainer:** AFCMS
 
-**State:** WIP
+**State:** Maintenance
 
-[![Not Yet](https://img.shields.io/static/v1?label=ContentDB&message=Not%20Yet&color=ff2921)](https://github.com/mineclone2-mods/template-mod)
+[![ContentDB](https://content.minetest.net/packages/mineclone2-mods/modname_tooltip/shields/title/)](https://content.minetest.net/packages/mineclone2-mods/modname_tooltip/)
 
-[![MineClone2 Version](https://img.shields.io/badge/MineClone2-master-green)](https://git.minetest.land/MineClone2/MineClone2)
+[![MineClone2 Version](https://img.shields.io/badge/MineClone2-0.72.1-green)](https://git.minetest.land/MineClone2/MineClone2)
 
 [![Minetest Version](https://img.shields.io/badge/Minetest-5.4.1-green)](https://github.com/minetest/minetest/releases/tag/5.4.1)
 

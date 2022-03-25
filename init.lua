@@ -23,12 +23,5 @@ function modname_tooltip.get_mod_title(modname)
 end
 
 tt.register_snippet(function(itemstring)
-
-	local modname = get_modname(itemstring)
-
-	if is_mcl(modname) then
-		return "MineClone2", mcl_colors.BLUE
-	else
-		return modname_tooltip.mods_titles[modname] or modname, mcl_colors.BLUE
-	end
+	return modname_tooltip.get_mod_title(get_modname(itemstring)), mcl_colors.BLUE
 end)

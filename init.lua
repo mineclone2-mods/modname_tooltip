@@ -1,3 +1,5 @@
+minetest.log("action", "[modname_tooltip] loading...")
+
 modname_tooltip = {
 	mods_titles = {},
 }
@@ -25,3 +27,5 @@ end
 tt.register_snippet(function(itemstring)
 	return modname_tooltip.get_mod_title(get_modname(itemstring)), mcl_colors.BLUE
 end)
+
+minetest.log("action", "[modname_tooltip] loaded succesfully")

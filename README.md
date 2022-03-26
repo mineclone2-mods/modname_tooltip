@@ -16,4 +16,4 @@ A porting of the [Modname Tooltip](https://www.curseforge.com/minecraft/mc-mods/
 
 This mod shows which mod an item came from on its tooltip.
 
-Mods can (and should!) customize the shown title with the API (See API.md).
+See DOCUMENTATION.md for more informations.
